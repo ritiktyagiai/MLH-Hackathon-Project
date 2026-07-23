@@ -243,7 +243,7 @@ pip install -r requirements.txt
 Create a `.env` file in the root directory.
 
 ```
-GEMINI_API_KEY=your_actual_api_key_here
+GEMINI_API_KEY="your_actual_api_key_here"
 ```
 
 
